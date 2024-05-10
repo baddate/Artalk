@@ -1,4 +1,7 @@
 
+## [v2.8.6](https://github.com/ArtalkJS/Artalk/compare/v2.8.7...v2.8.6) (2024-05-10)
+
+
 ## [v2.8.7](https://github.com/ArtalkJS/Artalk/compare/v2.8.6...v2.8.7) (0001-01-01)
 
 
