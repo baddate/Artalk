@@ -14,7 +14,7 @@ on:
         type: string
 
 env:
-  DOCKER_IMG: artalk/artalk-go
+  DOCKER_IMG: baddate/artalk-go
 
 jobs:
   build_publish:
